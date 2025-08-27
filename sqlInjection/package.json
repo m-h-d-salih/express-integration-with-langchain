@@ -1,0 +1,1 @@
+{"scripts":{"start":"node server.mjs","dev":"nodemon server.mjs"},"dependencies":{"@google/generative-ai":"^0.24.1","@langchain/core":"^0.3.72","@langchain/google-genai":"^0.2.16","cors":"^2.8.5","dotenv":"^17.2.1","express":"^5.1.0","langchain":"^0.3.31","mysql2":"^3.14.3","zod":"^3.25.76"}}
